@@ -132,6 +132,8 @@ This app was developed as **Task 4** of the **CodeAlpha App Development Internsh
 
 You can download the latest release APK directly from the [Releases](https://github.com/Syed-Khizer-Rizvi/CodeAlpha_Language_Learning_App/releases) page.
 
+---
+
 ## 📂 Project Structure
 
 lib/
@@ -186,5 +188,3 @@ If you found this project helpful or interesting, please give it a ⭐ on GitHub
 
 ---
 
-**Made with ❤️ using Flutter | CodeAlpha Internship Task 4**
----
